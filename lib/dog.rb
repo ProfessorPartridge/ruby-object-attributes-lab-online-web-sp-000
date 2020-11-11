@@ -7,6 +7,3 @@ class Dog
     @name
   end
 end
-
-Fido = Dog.new
-puts Fido.name
